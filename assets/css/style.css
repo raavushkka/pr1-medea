@@ -116,9 +116,10 @@ footer nav a {
     border-bottom: 1px transparent solid;
 }
 
-header nav a:hover,
-footer nav a:hover {
+header nav a:hover {
     border-bottom: 1px #252A61 solid;
+    font-weight: 500;
+    font-size: 16px;
 }
 
 /* banner */
